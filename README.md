@@ -1,3 +1,3 @@
 # My first github
 
-CSS got so much better!!!
+To be honest, it's so hard!! but fun.
